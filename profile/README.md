@@ -1,10 +1,9 @@
-# Introducing GiveCup 🌍: Building Communities Around Causes
+# Introducing GiveCup 🌍
+**Building communities around causes.**
 
 GiveCup is a gamified Web3 based mobile app revolutionizing charitable donations, built from first principles for the X Day /hackathon on the MultiversX blockchain.
 
 We make donations secure, transparent, and rewarding, striving to create a personal connection between the donor and the organization.
-
-
 
 ## 🎥 Demo
 
