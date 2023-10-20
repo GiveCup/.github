@@ -44,3 +44,4 @@ We make donations secure, transparent, and rewarding, striving to create a perso
 - [Website](https://givecup.io)
 - [Pitch Deck](./.github/pitch.pdf)
 - [Demo Video](https://youtu.be/f6Cd2hSYgWM)
+- [Technical Documentation](https://github.com/GiveCup/docs)
