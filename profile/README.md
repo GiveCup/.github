@@ -28,6 +28,9 @@ We make donations secure, transparent, and rewarding, striving to create a perso
 ### [api](https://github.com/GiveCup/api) :computer:
 🌐 **API Client**: Crafted with Express.js, it's the bridge between our frontend and the various backend functionalities.
 
+## 🖼 Preview
+![App preview](preview.png)
+
 ## 🌐 Relevant Links
 
 - [Website](https://givecup.io)
