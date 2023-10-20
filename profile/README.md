@@ -5,7 +5,7 @@ GiveCup is a gamified Web3 based mobile app revolutionizing charitable donations
 
 We make donations secure, transparent, and rewarding, striving to create a personal connection between the donor and the organization.
 
-## 🎥 Demo
+## 🎥 Presentation Video
 
 [![Watch the demo](http://img.youtube.com/vi/f6Cd2hSYgWM/0.jpg)](https://youtu.be/f6Cd2hSYgWM) 
 
