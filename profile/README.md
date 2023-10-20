@@ -29,7 +29,7 @@ We make donations secure, transparent, and rewarding, striving to create a perso
 🌐 **API Client**: Crafted with Express.js, it's the bridge between our frontend and the various backend functionalities.
 
 ## 🖼 App Preview
-![App preview](../preview.png)
+![App preview](https://raw.githubusercontent.com/GiveCup/.github/main/preview.png)
 
 ## 🚀 Features
 - **Gamified Giving**: Transform your charitable donations into a game-like experience. Donate, level up, and unlock unique rewards.
