@@ -29,7 +29,7 @@ We make donations secure, transparent, and rewarding, striving to create a perso
 🌐 **API Client**: Crafted with Express.js, it's the bridge between our frontend and the various backend functionalities.
 
 ## 🖼 Preview
-![App preview](preview.png)
+![App preview](../preview.png)
 
 ## 🌐 Relevant Links
 
